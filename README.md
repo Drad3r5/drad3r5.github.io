@@ -1,2 +1,2 @@
-# www.p5js-project.com
+# p5js-project.github.io
 JustForFun project
